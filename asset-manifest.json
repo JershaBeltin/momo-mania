@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/momo-mania/static/css/main.c99671c6.css",
+    "main.js": "/momo-mania/static/js/main.a82a91bd.js",
+    "index.html": "/momo-mania/index.html",
+    "main.c99671c6.css.map": "/momo-mania/static/css/main.c99671c6.css.map",
+    "main.a82a91bd.js.map": "/momo-mania/static/js/main.a82a91bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c99671c6.css",
+    "static/js/main.a82a91bd.js"
+  ]
+}
